@@ -1,0 +1,6 @@
+.idea
+.git
+config
+node_modules
+public
+scripts
